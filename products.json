@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Analog Watch",
+        "price": 1300,
+        "image": "image/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Shoes",
+        "price": 950,
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Trousers",
+        "price": 1290,
+        "image": "image/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Blue T-Shirt",
+        "price": 800,
+        "image": "image/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Shoes",
+        "price": 2200,
+        "image": "image/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Sports T-Shirts",
+        "price": 600,
+        "image": "image/6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Socks",
+        "price": 200,
+        "image": "image/7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Analog Black Watch",
+        "price": 1200,
+        "image": "image/8.jpg"
+    }
+
+]
